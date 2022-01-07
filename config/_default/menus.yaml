@@ -1,0 +1,47 @@
+leftnav:
+- identifier: fdfd7d32-2e68-f5da-0be5-481e351161c4
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 7ce8bf64-fb7a-99a3-95f7-0cba6bec958c
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: 55d505b1-69f7-f01b-fee9-cba048f3cd8f
+  name: Instructor Insights
+  url: /pages/instructor-insights/
+  weight: 30
+- identifier: 02397c00-7b38-feed-cf80-62a305c1d6b7
+  name: Meet the Educator
+  parent: 55d505b1-69f7-f01b-fee9-cba048f3cd8f
+  url: /pages/instructor-insights/meet-the-educator
+  weight: 40
+- identifier: 92d158be-1dbd-82a1-c08d-824bff9d0d79
+  name: Video Playlist
+  parent: 55d505b1-69f7-f01b-fee9-cba048f3cd8f
+  url: /pages/instructor-insights/video-playlist
+  weight: 50
+- identifier: f0632fab-33fe-b54f-79db-e7aead7c2a75
+  name: Lecture Notes
+  url: /pages/lecture-notes
+  weight: 60
+- identifier: 59a7a862-feb8-5c8b-5250-9910c07728e5
+  name: Lecture Videos
+  url: /video_galleries/lecture-videos
+  weight: 70
+- identifier: 15d515f8-c4b8-4142-510d-b3da89bcae54
+  name: Recitation Notes
+  url: /pages/recitation-notes
+  weight: 80
+- identifier: 8c671299-aae3-6eba-669c-a13490c21dec
+  name: Recitation Videos
+  url: /video_galleries/recitation-videos
+  weight: 90
+- identifier: d03775d6-6b3d-83cd-7232-20b2fcdc643a
+  name: Assignments
+  url: /pages/assignments
+  weight: 100
+- identifier: 6086105f-0147-4c30-9283-19d86f8ea363
+  name: Exams
+  url: /pages/exams
+  weight: 110
