@@ -1,0 +1,62 @@
+{
+  "term": "Spring",
+  "year": "2015",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Networks"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Cryptography"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ]
+  ],
+  "legacy_uid": "a2a1add0-709d-be49-eb32-d8408845ee6f",
+  "instructors": {
+    "content": [
+      "97490edb-d1af-d10b-27c8-4045aa33a1af",
+      "adc586d4-a306-ce04-7a4f-c2ebe1bf1197",
+      "ffa02e79-8c7d-ed25-d352-041d3158282a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6afddb71-4577-eef8-db07-46c89641b178",
+    "website": "6-046j-design-and-analysis-of-algorithms-spring-2015"
+  },
+  "course_title": "Design and Analysis of Algorithms",
+  "course_description": "This is an intermediate algorithms course with an emphasis on teaching techniques for the design and analysis of efficient algorithms, emphasizing methods of application. Topics include divide-and-conquer, randomization, dynamic programming, greedy algorithms, incremental improvement, complexity, and cryptography.\n",
+  "department_numbers": [
+    "6",
+    "18"
+  ],
+  "extra_course_numbers": "18.410J",
+  "primary_course_number": "6.046J",
+  "course_image_thumbnail": {
+    "content": "c556fb05-d3d9-17af-1de8-d68e6dd73c38",
+    "website": "6-046j-design-and-analysis-of-algorithms-spring-2015"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Recitation Videos",
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "d974e3d4-3fd8-4016-bf3d-a483fad6acce",
+  "title": "Course Metadata"
+}
